@@ -4,4 +4,7 @@ p{
 h1{
     background-color: aqua;
     font-size: large;
+    background-image: url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyk_5j8A9aACTMJCDDXtz4DhtO7j34GOqFoLTgFIqTIcblk1kpUaycBar6Uj5vlO2mHQ&usqp=CAU);
+    background-size: cover;
+    background-position: right;
 }
